@@ -8,11 +8,11 @@
 	  justify-content:"center"
   />
 
-## Apple A1048 Keyboard Univers 57 Glyphs
+## Apple A1048 Keyboard Univers 48 Glyphs
 original apple univers 57 extracted from a japanese apple manual pdf made in 2001.<br>
-* in the svg file, the fonts on the right side are different from those on the left. I recreated them to my best ability (g, m, w, etc.)
-* spacing/kerning has been set up in the font only for lowercase letters. The only capital letters with altered spacing is F for better printing of F keys.
-* certain letters are missing that aren't present in the SVG. maybe one day I'll make those glyphs too :D
+* in the svg file, the fonts on the right side are different from those on the left. I recreated them using the Univers 48 Condensed Oblique Font.
+* the spacing between glyphs matches that of the Univers 48 Condensed Oblique font.
+
 
 #### Example glyphs:
 <div>
@@ -24,4 +24,4 @@ original apple univers 57 extracted from a japanese apple manual pdf made in 200
 	  justify-content:"center"
   />
   </div>
-  The @, &, and $ symbols are different from the original univers 57 glyphs!
+  The @, &, and $ symbols are different from the original univers 48 glyphs!
